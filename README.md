@@ -14,7 +14,3 @@
 - 🧨 I use my hobby projects to experiment with niche technologies
 - ♂ Pronouns: he/him
 - [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="13em" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I daringly use Archlinux
-
-### Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mangalakader&theme=gruvbox_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

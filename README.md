@@ -1,4 +1,5 @@
-# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&color=F7F7F7&height=30&lines=I'm+Mangala+Kader;I+love+coding;I'm+passionate+about+technologies)](https://git.io/typing-svg)
+# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&color=F7F7F7&height=30&lines=I'm+Mangala+Kader;I+love+coding;I'm+passionate+about+technologies)](https://git.io/typing-svg)
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)

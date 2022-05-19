@@ -12,7 +12,7 @@ About me:
 - ✨ I'm particularly curious about various protocols such as XMPP, SMTP, etc.,
 - 🧨 I use my hobby projects to experiment with niche technologies
 - ♂ Pronouns: he/him
-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="10em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I daringly use Archlinux
+- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="13em" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I daringly use Archlinux
 
 <!--
 **mangalakader/mangalakader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

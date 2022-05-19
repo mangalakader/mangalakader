@@ -4,7 +4,7 @@
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 
-Some things about me:
+About me:
 
 - 🖥 I'm currently working as a Senior Software Architect in India.
 - 🏆 I have been working with erlang and elixir for 8.5+ years
@@ -12,6 +12,7 @@ Some things about me:
 - ✨ I'm particularly curious about various protocols such as XMPP, SMTP, etc.,
 - 🧨 I use my hobby projects to experiment with niche technologies
 - ♂ Pronouns: he/him
+- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="10em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I daringly use Archlinux
 
 <!--
 **mangalakader/mangalakader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

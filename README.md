@@ -1,4 +1,4 @@
-# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">, I'm Mangala Kader
+# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">  I'm Mangala Kader
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
@@ -6,11 +6,12 @@
 
 Some things about me:
 
-- I'm currently working as a Senior Software Architect in India.
+- 🖥 I'm currently working as a Senior Software Architect in India.
 - I have been working with erlang and elixir for 8.5+ years
 - I believe in learning by doing
 - I'm particularly curious about various protocols such as XMPP, SMTP, etc.,
 - I use my hobby projects to experiment with niche technologies
+- Pronouns: he/him
 
 <!--
 **mangalakader/mangalakader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

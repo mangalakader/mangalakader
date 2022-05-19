@@ -5,7 +5,7 @@
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 
-About me:
+### About me
 
 - 🖥 I'm currently working as a Senior Software Architect in India.
 - 🏆 I have been working with erlang and elixir for 8.5+ years

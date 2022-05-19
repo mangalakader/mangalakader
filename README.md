@@ -1,4 +1,4 @@
-### Hey 👋, I'm Mangala Kader!
+# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)

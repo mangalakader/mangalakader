@@ -7,11 +7,11 @@
 Some things about me:
 
 - 🖥 I'm currently working as a Senior Software Architect in India.
-- I have been working with erlang and elixir for 8.5+ years
-- I believe in learning by doing
-- I'm particularly curious about various protocols such as XMPP, SMTP, etc.,
-- I use my hobby projects to experiment with niche technologies
-- Pronouns: he/him
+- 🏆 I have been working with erlang and elixir for 8.5+ years
+- 🤦 I believe in learning by doing
+- ✨ I'm particularly curious about various protocols such as XMPP, SMTP, etc.,
+- 🧨 I use my hobby projects to experiment with niche technologies
+- ♂ Pronouns: he/him
 
 <!--
 **mangalakader/mangalakader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">  I'm Mangala Kader
+# Hello folks! <img src="https://raw.githubusercontent.com/mangalakader/mangalakader/master/assets/wave.gif" width="30px">  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=F7F7F7&center=true&vCenter=true&lines=I'm+Mangala+Kader;I+love+coding;I'm+passionate+about+technologies)](https://git.io/typing-svg)
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)

@@ -3,8 +3,8 @@
 
 ### About me
 
-- 🖥 I'm currently working as a Senior Software Architect in India.
-- 🏆 I have been working with erlang and elixir for 8.5+ years
+- 🖥 I'm currently working as a Senior Software Engineer.
+- 🏆 I have been working with erlang and elixir for 9+ years
 - 🤦 I believe in learning by doing
 - ✨ I'm particularly curious about various protocols such as XMPP, SMTP, etc.,
 - 🧨 I use my hobby projects to experiment with niche technologies
